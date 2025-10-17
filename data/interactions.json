@@ -1,0 +1,10 @@
+{
+  "books": {
+    "manual_de_succion_ejecutiva": { "likes": 0, "rating_count": 0, "rating_sum": 0 },
+    "cosecha_de_emociones":        { "likes": 0, "rating_count": 0, "rating_sum": 0 },
+    "el_ultimo_lider_humano":      { "likes": 0, "rating_count": 0, "rating_sum": 0 },
+    "narrativas_cuanticas":        { "likes": 0, "rating_count": 0, "rating_sum": 0 },
+    "convergencia_digital":        { "likes": 0, "rating_count": 0, "rating_sum": 0 },
+    "el_tablero_invisible":        { "likes": 0, "rating_count": 0, "rating_sum": 0 }
+  }
+}
